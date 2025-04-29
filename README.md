@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Wabuluka
-- 👀 I’m interested in Node.js
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Wabuluka/Wabuluka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced frontend developer with 4+ years in implementation, design, testing and maintenance of React.js and React Native applications. Able to effectively self-manage during independent projects, as well as collaborate as part of a production team from concept through to development and delivery. Proficient in Node.js, Express.js, React.js, MYSQL, MongoDB, WordPress and React Native.
